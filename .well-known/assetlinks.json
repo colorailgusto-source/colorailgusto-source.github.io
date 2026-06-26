@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.topphone.topphone",
+    "sha256_cert_fingerprints": ["7C:C8:93:0D:9F:90:13:13:1C:E4:5E:CD:AC:B1:F7:17:02:1F:B0:6C:FB:6D:90:28:E0:B6:85:2F:36:2D:50:21"]
+  }
+}]
